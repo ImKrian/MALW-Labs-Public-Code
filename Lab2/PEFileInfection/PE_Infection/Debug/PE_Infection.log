@@ -1,0 +1,7 @@
+﻿  PE_Infection.cpp
+C:\Users\Pablo\Desktop\UNI\Asignaturas\Master\MALW\Lab\PEFileInfection\PE_Infection\PE_Infection.cpp(51,41): warning C4838: conversion from 'unsigned long' to 'char' requires a narrowing conversion
+C:\Users\Pablo\Desktop\UNI\Asignaturas\Master\MALW\Lab\PEFileInfection\PE_Infection\PE_Infection.cpp(51,59): warning C4838: conversion from 'unsigned long' to 'char' requires a narrowing conversion
+C:\Users\Pablo\Desktop\UNI\Asignaturas\Master\MALW\Lab\PEFileInfection\PE_Infection\PE_Infection.cpp(51,78): warning C4838: conversion from 'unsigned long' to 'char' requires a narrowing conversion
+C:\Users\Pablo\Desktop\UNI\Asignaturas\Master\MALW\Lab\PEFileInfection\PE_Infection\PE_Infection.cpp(51,97): warning C4838: conversion from 'unsigned long' to 'char' requires a narrowing conversion
+C:\Users\Pablo\Desktop\UNI\Asignaturas\Master\MALW\Lab\PEFileInfection\PE_Infection\PE_Infection.cpp(196,20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+  PE_Infection.vcxproj -> C:\Users\Pablo\Desktop\UNI\Asignaturas\Master\MALW\Lab\PEFileInfection\Debug\PE_Infection.exe
