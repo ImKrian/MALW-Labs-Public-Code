@@ -1,0 +1,16 @@
+﻿  Building 'Lab1_RootkitKMD' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\Lab1_RootkitKMD.inf
+  Stamping [Version] section with DriverVer=09/25/2021,11.23.58.58
+  Lab1_RootkitKMD.vcxproj -> C:\Users\Pablo\Desktop\UNI\Asignaturas\Master\MALW\Lab\Lab1\WindosKMD\Lab1_RootkitKMD\x64\Debug\Lab1_RootkitKMD.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Pablo\Desktop\UNI\Asignaturas\Master\MALW\Lab\Lab1\WindosKMD\Lab1_RootkitKMD\x64\Debug\Lab1_RootkitKMD\lab1_rootkitkmd.cat
